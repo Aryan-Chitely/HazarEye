@@ -59,18 +59,18 @@ To leverage Artificial Intelligence and Computer Vision for detecting road hazar
 
 # ✨ Features
 
-| Feature | Status |
-| :--- | :--- |
-| Responsive User Interface | ✅ Implemented |
-| Interactive Hazard Map | ✅ Implemented |
-| Analytics Dashboard | ✅ Implemented |
-| Driver Assistance Interface | ✅ Implemented |
-| Hazard Visualization | ✅ Implemented |
-| Real-Time AI Detection | 🚧 In Development |
-| YOLO-Based Hazard Detection | 🚧 Planned |
-| GPS Tracking | 🚧 Planned |
-| Backend APIs | 🚧 Planned |
-| Mobile Application | 🚧 Planned |
+| Feature                     | Status            |
+| :-------------------------- | :---------------- |
+| Responsive User Interface   | ✅ Implemented     |
+| Interactive Hazard Map      | ✅ Implemented     |
+| Analytics Dashboard         | ✅ Implemented     |
+| Driver Assistance Interface | ✅ Implemented     |
+| Hazard Visualization        | ✅ Implemented     |
+| Real-Time AI Detection      | 🚧 In Development |
+| YOLO-Based Hazard Detection | 🚧 Planned        |
+| GPS Tracking                | 🚧 Planned        |
+| Backend APIs                | 🚧 Planned        |
+| Mobile Application          | 🚧 Planned        |
 
 ---
 
@@ -95,7 +95,6 @@ flowchart TD
     D --> G[Safer Driving Experience]
     E --> G
     F --> G
-
 ```
 
 ---
@@ -144,12 +143,7 @@ HazarEye/
 │
 ├── Backend/            # Planned
 │
-├── assets/
-│   ├── home-page.png
-│   └── features-page.png
-│
 └── README.md
-
 ```
 
 ---
@@ -166,29 +160,25 @@ Verify your local installation:
 ```bash
 node -v
 npm -v
-
 ```
 
 ## Clone Repository
 
 ```bash
-git clone [https://github.com/Aryan-Chitely/HazarEye.git](https://github.com/Aryan-Chitely/HazarEye.git)
+git clone https://github.com/Aryan-Chitely/HazarEye.git
 cd HazarEye/Frontend
-
 ```
 
 ## Install Dependencies
 
 ```bash
 npm install
-
 ```
 
 ## Start Development Server
 
 ```bash
 npm run dev
-
 ```
 
 Open your browser and navigate to: `http://localhost:5173`
@@ -197,14 +187,12 @@ Open your browser and navigate to: `http://localhost:5173`
 
 ```bash
 npm run build
-
 ```
 
 ## Preview Production Build
 
 ```bash
 npm run preview
-
 ```
 
 ---
@@ -212,24 +200,23 @@ npm run preview
 # ⚡ Quick Start
 
 ```bash
-git clone [https://github.com/Aryan-Chitely/HazarEye.git](https://github.com/Aryan-Chitely/HazarEye.git)
+git clone https://github.com/Aryan-Chitely/HazarEye.git
 cd HazarEye/Frontend
 npm install
 npm run dev
-
 ```
 
 ---
 
 # 📜 Available Scripts
 
-| Command | Description |
-| --- | --- |
-| `npm install` | Install project dependencies |
-| `npm run dev` | Start development server |
-| `npm run build` | Create production build |
-| `npm run preview` | Preview production build |
-| `npm run lint` | Run ESLint check |
+| Command           | Description                  |
+| ----------------- | ---------------------------- |
+| `npm install`     | Install project dependencies |
+| `npm run dev`     | Start development server     |
+| `npm run build`   | Create production build      |
+| `npm run preview` | Preview production build     |
+| `npm run lint`    | Run ESLint check             |
 
 ---
 
@@ -313,11 +300,9 @@ Contributions are welcome.
 
 # 👨‍💻 Meet the Team
 
-| Member | Responsibility |
-| --- | --- |
-| **Aryan Chitely** | Full Stack Development & Project Integration |
-| **Ananya Jaiswal** | AI/ML Research & Development |
-| **Harshita Rai** | Frontend Development & UI/UX |
-| **Aanchal Patel** | Backend Development & Documentation |
-
----
+| Member             | Responsibility                               |
+| ------------------ | -------------------------------------------- |
+| **Aryan Chitely**  | Full Stack Development & Project Integration |
+| **Ananya Jaiswal** | AI/ML Research & Development                 |
+| **Harshita Rai**   | Frontend Development & UI/UX                 |
+| **Aanchal Patel**  | Backend Development & Documentation          |
