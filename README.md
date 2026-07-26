@@ -297,12 +297,3 @@ Contributions are welcome.
 5. Open a Pull Request
 
 ---
-
-# 👨‍💻 Meet the Team
-
-| Member             | Responsibility                               |
-| ------------------ | -------------------------------------------- |
-| **Aryan Chitely**  | Full Stack Development & Project Integration |
-| **Ananya Jaiswal** | AI/ML Research & Development                 |
-| **Harshita Rai**   | Frontend Development & UI/UX                 |
-| **Aanchal Patel**  | Backend Development & Documentation          |
